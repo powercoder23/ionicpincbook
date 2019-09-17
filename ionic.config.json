@@ -1,5 +1,7 @@
 {
   "name": "PINCBook",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
